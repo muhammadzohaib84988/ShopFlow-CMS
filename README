@@ -1,0 +1,18 @@
+# 🛒 ShopFlow CMS – Professional E-Commerce Management System
+
+### 📋 Project Overview
+ShopFlow CMS is a full-stack E-commerce management platform developed to streamline online business operations. Built with PHP and MySQL, it features a powerful administrative dashboard to manage inventory, sales, and customers efficiently.
+
+### 🚀 Key Features
+* **Admin Dashboard:** Centralized control panel to monitor store activity.
+* **Product Management:** Add, edit, and categorize products with images, colors, and sizes.
+* **Global Shipping:** Manage shipping rates and country-specific delivery settings.
+* **Order Tracking:** Full lifecycle management of customer orders.
+
+### 🛠️ Technical Stack
+* **Backend:** PHP (Core)
+* **Database:** MySQL
+* **Frontend:** HTML5, CSS3, JavaScript, Bootstrap (AdminLTE)
+
+### 🎓 Learning Outcomes
+Demonstrated expertise in Relational Database Design, CRUD operations, Secure Session Management, and Responsive Web Design.
